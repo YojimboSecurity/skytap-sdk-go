@@ -152,6 +152,12 @@ See [LICENSE](LICENSE) for more information.
 
 I would like to acknowledge that this is a fork of the original [skytap-sdk-go](https://github.com/skytap/skytap-sdk-go) project.
 
+The two things I wanted to fix were:
+
+- case-insensitive import collision
+
+- go mod v2 issues
+
 I would also like to thank the following projects for their contributions:
 
 - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
