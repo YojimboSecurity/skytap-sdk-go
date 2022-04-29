@@ -43,7 +43,7 @@
 
 ## About
 
-This package provides a Go client for the [Skytap API](https://help.skytap.com/API_v2_Documentation.htm).
+This package provides a Go client for the [Skytap API](https://help.skytap.com/API_v2_Documentation.htm). This is a fork of the origional. Please see acknowledgements.
 
 ## Getting Started
 
